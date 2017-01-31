@@ -18,4 +18,4 @@ Once complete this will go on my blog.
 * For each item to display show the array value for that item minus one using a while loop
 
 ## Results
-Achieved an interactive webform that generates the expected results.
+Achieved an interactive webform that generates the expected results. [Thehalfling.com: Epic Fail Generator](http://www.thehalfling.com/random-generators/epic-fail-description/)
